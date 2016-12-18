@@ -1,0 +1,8 @@
+mode: set
+fizzbuzz/fizzbuzz.go:5.32,6.21 1 1
+fizzbuzz/fizzbuzz.go:13.2,13.28 1 1
+fizzbuzz/fizzbuzz.go:6.21,8.3 1 1
+fizzbuzz/fizzbuzz.go:8.3,8.26 1 1
+fizzbuzz/fizzbuzz.go:8.26,10.3 1 1
+fizzbuzz/fizzbuzz.go:10.3,10.27 1 1
+fizzbuzz/fizzbuzz.go:10.27,12.3 1 1
